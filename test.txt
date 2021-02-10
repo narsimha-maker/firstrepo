@@ -1,1 +1,1 @@
-hello, welcome to the git practice.
+hello, welcome to the git practice. In the next video, we are going to learn git coomit,push and pull.
